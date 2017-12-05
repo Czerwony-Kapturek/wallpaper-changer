@@ -1,0 +1,9 @@
+<Application xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'>
+  <VisualElements
+      DisplayName='Wallpaper Changer'
+      ShowNameOnSquare150x150Logo='off'
+      Square150x150Logo='w150x150.png'
+      Square70x70Logo='w150x150.png'
+      ForegroundText='dark'
+      BackgroundColor='transparent'/>
+</Application>

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2009
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "wall", "wall.vcxproj", "{615A86DE-C034-4925-9496-B520FBBF7C7E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{615A86DE-C034-4925-9496-B520FBBF7C7E}.Debug|x64.ActiveCfg = Debug|x64
+		{615A86DE-C034-4925-9496-B520FBBF7C7E}.Debug|x64.Build.0 = Debug|x64
+		{615A86DE-C034-4925-9496-B520FBBF7C7E}.Debug|x86.ActiveCfg = Debug|Win32
+		{615A86DE-C034-4925-9496-B520FBBF7C7E}.Debug|x86.Build.0 = Debug|Win32
+		{615A86DE-C034-4925-9496-B520FBBF7C7E}.Release|x64.ActiveCfg = Release|x64
+		{615A86DE-C034-4925-9496-B520FBBF7C7E}.Release|x64.Build.0 = Release|x64
+		{615A86DE-C034-4925-9496-B520FBBF7C7E}.Release|x86.ActiveCfg = Release|Win32
+		{615A86DE-C034-4925-9496-B520FBBF7C7E}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F72ACB95-AFED-4CD9-8A5A-DDC2C09E0FBC}
+	EndGlobalSection
+EndGlobal
