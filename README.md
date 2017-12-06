@@ -2,7 +2,7 @@
 
 
 ### What is it?
-A small and primitive, '90s style utility for setting desktop wallpaper images.
+A small and primitive utility for setting desktop wallpaper images.
 
 ### But why?
 Windows 10 lost support for separate wallpapers on multiple monitors. It is possible to bring 
@@ -18,7 +18,7 @@ especially in configurations with multiple monitors of various sizes and aspect 
 ### Functionality
 * Setting random jpeg images from a specified directory as wallpapers
 * Option to respect screen's aspect ratio
-* Option to prefer the same of different images on multiple monitors
+* Option to prefer the same or different images on multiple monitors
 * Timer for changing wallpapers periodically
 * Option to start the program when the user logs in
 
